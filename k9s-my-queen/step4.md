@@ -1,0 +1,3 @@
+- add a secret with kubectl
+- visualize current secrets
+- Decode given secret

@@ -2,48 +2,60 @@
   "title": "🚀️👌️ k9s My Queen",
   "description": "Practical formation : learning how to use k9s to administer kubernetes Cluster",
   "difficulty": "Beginner",
-  "time": "60",
+  "time": "45 minutes",
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Get k9s",
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "Play with cluster",
         "text": "step2.md"
       },
       {
-        "title": "Step 3",
+        "title": "Visualize nodes",
         "text": "step3.md"
       },
       {
-        "title": "Step 4",
+        "title": "Manipulate secrets",
         "text": "step4.md"
       },
       {
-        "title": "Step 5",
+        "title": "Navigate through namespace",
         "text": "step5.md"
       },
       {
-        "title": "Step 6",
+        "title": "See logs of a given pods",
         "text": "step6.md"
       },
       {
-        "title": "Step 7",
+        "title": "Let's destruct the cluster",
         "text": "step7.md"
       },
       {
-        "title": "Step 8",
+        "title": "Kill a pod",
         "text": "step8.md"
       },
       {
-        "title": "Step 9",
+        "title": "Trigger a cronjob",
         "text": "step9.md"
       },
       {
-        "title": "Step 10",
+        "title": "Switch context",
         "text": "step10.md"
+      },
+      {
+        "title": "Debugging my application",
+        "text": "step11.md"
+      },
+      {
+        "title": "Step 10",
+        "text": "step12.md"
+      },
+      {
+        "title": "Advanced command : xray",
+        "text": "step13.md"
       }
     ],
     "intro": {
