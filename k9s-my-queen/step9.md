@@ -17,4 +17,6 @@ Just press "t" to trigger this cronjob, check that you have a new pod who ran to
 ### Suspend me
 Ok let's say (no realistic example) that you're relying on an external service for your cronjob succesfull completion. Let's call this external service "Arhia". 
 If Arhia is down, you probably want to stop your cronjobs, so that you're not losing events and generating useless errors. 
-k9s helps you again ! Just press "s" to suspend the cronjob and to resume it later on.
+k9s helps you again ! 
+
+- Just press "s" to suspend the cronjob and to resume it later on.

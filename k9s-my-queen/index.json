@@ -72,7 +72,7 @@
       "host01": [
         {
           "file": "cronjob.yaml",
-          "target": "/tmp"
+          "target": "/tmp/"
         }
       ]
     }

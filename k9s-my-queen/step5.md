@@ -20,7 +20,7 @@ k9s got your back ! Just type ```ns```{{execute T1}} to have a list of all names
 
 <details>
     <summary>Heuuu okay but concrete example ? 👇️</summary>
-    Just do ```ns```{{execute T1}} and see "/" and ```fa``` and the only namespace you should see is "falco" !
+    Just do ```ns```{{execute T1}} and see "/" and ```fal``` and the only namespace you should see is "falco" !
 </details>
 
 💡️ Whaou this / command looks amazing, can I use it somewhere else 🤩️ ? 
