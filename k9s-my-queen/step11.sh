@@ -1,0 +1,1 @@
+kubectl create deployment hello-node --image=registry.gitlab.com/gojob/hris/master -n falco

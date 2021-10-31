@@ -49,7 +49,8 @@
       },
       {
         "title": "Debugging my application",
-        "text": "step11.md"
+        "text": "step11.md",
+        "courseData": "step11.sh"
       },
       {
         "title": "Personnal config ?",
