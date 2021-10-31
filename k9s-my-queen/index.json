@@ -67,15 +67,15 @@
     },
     "finish": {
       "text": "finish.md"
+    },
+    "assets": {
+      "host01": [
+        {
+          "file": "cronjob.yaml",
+          "target": "/tmp"
+        }
+      ]
     }
-  },
-  "assets": {
-    "host01": [
-      {
-        "file": "cronjob.yaml",
-        "target": "/tmp"
-      }
-    ]
   },
   "environment": {
     "uilayout": "terminal"
