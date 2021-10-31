@@ -20,8 +20,7 @@
       {
         "title": "Manipulate secrets",
         "text": "step4.md",
-        "courseData": "step4.sh",
-        "hint": "step4-hint.md"
+        "courseData": "step4.sh"
       },
       {
         "title": "Navigate through namespace",
@@ -36,12 +35,13 @@
         "text": "step7.md"
       },
       {
-        "title": "Kill a pod",
+        "title": "Delete a pod",
         "text": "step8.md"
       },
       {
         "title": "Trigger a cronjob",
-        "text": "step9.md"
+        "text": "step9.md",
+        "courseData": "step9.sh"
       },
       {
         "title": "Switch context",
@@ -52,7 +52,7 @@
         "text": "step11.md"
       },
       {
-        "title": "Step 10",
+        "title": "Personnal config ?",
         "text": "step12.md"
       },
       {
@@ -68,6 +68,14 @@
     "finish": {
       "text": "finish.md"
     }
+  },
+  "assets": {
+    "host01": [
+      {
+        "file": "cronjob.yaml",
+        "target": "/tmp"
+      }
+    ]
   },
   "environment": {
     "uilayout": "terminal"
