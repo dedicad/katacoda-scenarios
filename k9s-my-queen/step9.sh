@@ -1,1 +1,1 @@
-k create -f /tmp/cronjob.yaml
+kubectl create -f /tmp/cronjob.yaml
