@@ -21,7 +21,7 @@
         "title": "Manipulate secrets",
         "text": "step4.md",
         "courseData": "step4.sh",
-        "hint": "step4-hint.sh"
+        "hint": "step4-hint.md"
       },
       {
         "title": "Navigate through namespace",
