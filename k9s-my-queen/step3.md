@@ -1,6 +1,6 @@
-Ok let's go ! We are going to use k9s now !
+Ok let's go ! We are going to use k9s now ! Now comes the fun 🤩️
 
-Small tip, to use a command in k9s you may use ':' and then click on the left panel to execute the command 😉️
+Small tip, to use a command in k9s you may type ':' and then click on the left panel to execute the command 😉️
 
 ### Start k9s in readonly mode
 ```
