@@ -1,0 +1,1 @@
+kubectl create secret generic dev-db-secret --from-literal=username=devuser --from-literal=password='nicolasboutin' -n falco

@@ -10,16 +10,18 @@
         "text": "step1.md"
       },
       {
-        "title": "Play with cluster",
+        "title": "Play with cluster, old school like",
         "text": "step2.md"
       },
       {
-        "title": "Visualize nodes",
+        "title": "Visualize nodes and pods with k9s !",
         "text": "step3.md"
       },
       {
         "title": "Manipulate secrets",
-        "text": "step4.md"
+        "text": "step4.md",
+        "courseData": "step4.sh",
+        "hint": "step4-hint.sh"
       },
       {
         "title": "Navigate through namespace",
@@ -59,7 +61,8 @@
       }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "courseData": "background.sh"
     },
     "finish": {
       "text": "finish.md"
@@ -69,6 +72,6 @@
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "kubernetes-cluster-running"
+    "imageid": "kubernetes-cluster-running:1.19"
   }
 }
