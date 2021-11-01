@@ -53,6 +53,10 @@
         {
           "file": "hotkey.yml",
           "target": "/tmp/"
+        },
+        {
+          "file": "skins.yml",
+          "target": "/tmp/"
         }
       ]
     }

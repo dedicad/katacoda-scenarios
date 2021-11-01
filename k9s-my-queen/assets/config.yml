@@ -14,7 +14,6 @@ k9s:
   readOnly: false
   # Toggles icons display as not all terminal support these chars.
   noIcons: false
-
   # Logs configuration
   logger:
     # Defines the number of lines to return. Default 100
@@ -29,3 +28,11 @@ k9s:
     textWrap: false
     # Toggles log line timestamp info. Default false
     showTime: true
+  currentContext: kubernetes-admin@kubernetes
+  currentCluster: kubernetes
+  clusters:
+    kubernetes:
+      namespace:
+        active: default
+        favorites:
+        - default

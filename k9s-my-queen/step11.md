@@ -9,6 +9,9 @@ To describe the current state of one pod, you can press **d** this will give you
 ## See all pods in error in a namespace
 Actually you already have all the tools for this, can you see what pod in error I've introduced in namespace falco ?
 
+>>Give me its name !<<
+=~= hello-node
+
 <details>
     <summary>Need help ? Toggle me ! 👇️</summary>
     Just use ```pods falco```{{execute T1}} to see pods associated to namespace falco
