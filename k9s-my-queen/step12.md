@@ -10,7 +10,7 @@ pods all
 ```{{execute T1}}
 Have a look : 
 ```
-vim ~/.config/k9s/config.yml
+vim ~/.config/k9s/views.yml
 ```{{execute T2}}
 
 More info [in the official docs](https://k9scli.io/topics/columns/)
@@ -47,7 +47,7 @@ You can use personnalized skins 🌈️ ! And the most useful : **One skin per C
 Click to update the default skin !
 
 ```
-cp /tmp/skins.yml ~/.config/k9s/
+cp /tmp/skin.yml ~/.config/k9s/
 ```{{execute T2}}
 
 More info [in the official docs](https://k9scli.io/topics/skins/)
