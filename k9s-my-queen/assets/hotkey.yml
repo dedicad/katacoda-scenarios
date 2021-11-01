@@ -1,0 +1,19 @@
+# $XDG_CONFIG_HOME/k9s/hotkey.yml
+hotKey:
+  # Hitting m navigates to your pod view
+  m:
+    shortCut:    m
+    description: Viewing pods
+    command:     pods falco
+
+  # Hitting v navigates to your deployments
+  v:
+    shortCut:    v
+    description: View deployments
+    command:     dp
+
+  # Hitting f navigates to falco xray deployments
+  f:
+    shortCut:    f
+    description: XRay Deployments
+    command:     xray deploy falco

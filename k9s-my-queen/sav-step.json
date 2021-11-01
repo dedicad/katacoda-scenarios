@@ -1,0 +1,36 @@
+{
+    "steps": [{
+        "title": "Visualize nodes and pods with k9s !",
+        "text": "step3.md"
+    },
+    {
+        "title": "Manipulate secrets",
+        "text": "step4.md",
+        "courseData": "step4.sh"
+    },
+    {
+        "title": "Navigate through namespace",
+        "text": "step5.md"
+    },
+    {
+        "title": "See logs of a given pods",
+        "text": "step6.md"
+    },
+    {
+        "title": "Let's destruct the cluster",
+        "text": "step7.md"
+    },
+    {
+        "title": "Delete a pod",
+        "text": "step8.md"
+    },
+    {
+        "title": "Trigger a cronjob",
+        "text": "step9.md",
+        "courseData": "step9.sh"
+    },
+    {
+        "title": "Switch context",
+        "text": "step10.md"
+    }]
+}

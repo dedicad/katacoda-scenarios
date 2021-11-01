@@ -1,0 +1,1 @@
+cp /tmp/views.yml ~/.k9s/ && cp /tmp/config.yml ~/.k9s/ cp /tmp/hotkey.yml ~/.k9s/
