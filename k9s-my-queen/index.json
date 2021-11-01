@@ -22,7 +22,7 @@
       {
         "title": "Advanced command : xray",
         "text": "step13.md",
-        "courseData": "step13.sh"
+        "code": "step13.sh"
       },
       {
         "title": "Practical ! Explore our clusters",

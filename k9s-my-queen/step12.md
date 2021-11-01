@@ -51,4 +51,5 @@ cp /tmp/skins.yml ~/.config/k9s/
 ```{{execute T2}}
 
 More info [in the official docs](https://k9scli.io/topics/skins/)
+
 [More skins here](https://github.com/derailed/k9s/tree/master/skins)
