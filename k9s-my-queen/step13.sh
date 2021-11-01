@@ -1,0 +1,1 @@
+rm /root/.config/k9s/skin.yml

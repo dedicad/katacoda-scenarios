@@ -17,14 +17,14 @@ More info [in the official docs](https://k9scli.io/topics/columns/)
 
 ### Config
 
-You can also see the file ~/.config/k9s/config.yml to see what a lot of parameters you can adjust, for example : 
+You can also see the file ~/.config/k9s/config.yml to see lot of parameters you can adjust, for example : 
 - Toggle timestamp on logs by default
 - sinceSeconds to choose the default past logs to see (default 5 minutes)
 
-## Optionnnal : if you have time
+## Optionnal : if you have time
 
 ### Custom Shortcuts
-🖐️ Ok ok, but this is a bit log to access the screen I want to see. 
+🖐️ Ok ok, but this is a bit long to access the screen I want to see. 
 
 Yes so you can a hotkey file in ~/.config/k9s/hotkey.yml ! I've added one for you, try to press the touch "m"
 
@@ -43,7 +43,7 @@ vim ~/.config/k9s/plugin.yml
 ### Skins
 Oh you don't like the colors ? 😖️
 
-You can use personnalized skins 🌈️ ! And the most useful : **One skin per Cluster !** What do you say ? so that you know when you use production or review 😉️
+You can use personnalized skins 🌈️ ! And the most useful : **One skin per Cluster !** What do you say ? so that you know when you use production or review in one blink 😉️
 Click to update the default skin !
 
 ```
@@ -51,3 +51,4 @@ cp /tmp/skins.yml ~/.config/k9s/
 ```{{execute T2}}
 
 More info [in the official docs](https://k9scli.io/topics/skins/)
+[More skins here](https://github.com/derailed/k9s/tree/master/skins)

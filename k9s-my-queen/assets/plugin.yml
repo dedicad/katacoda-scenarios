@@ -1,8 +1,7 @@
 # $XDG_CONFIG_HOME/k9s/plugin.yml
 plugin:
-
   # Defines a plugin to provide a `ctrl-l` shortcut to tail the logs while in pod view.
-  fred:
+  kubernetes:
     # Define a mnemonic to invoke the plugin
     shortCut: Ctrl-L
     # What will be shown on the K9s menu

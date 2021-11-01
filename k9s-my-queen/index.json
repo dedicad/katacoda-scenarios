@@ -21,7 +21,16 @@
       },
       {
         "title": "Advanced command : xray",
-        "text": "step13.md"
+        "text": "step13.md",
+        "courseData": "step13.sh"
+      },
+      {
+        "title": "Practical ! Explore our clusters",
+        "text": "step14.md"
+      },
+      {
+        "title": "Still got time ?",
+        "text": "step15.md"
       }
     ],
     "intro": {
@@ -47,11 +56,15 @@
           "target": "/tmp/"
         },
         {
+          "file": "plugin.yml",
+          "target": "/tmp/"
+        },
+        {
           "file": "hotkey.yml",
           "target": "/tmp/"
         },
         {
-          "file": "skins.yml",
+          "file": "skin.yml",
           "target": "/tmp/"
         }
       ]
