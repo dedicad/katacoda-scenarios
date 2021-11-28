@@ -5,15 +5,15 @@ Let's test our new skills on gojob Clusters !
 This step is designed to be performed on **review** cluster, so quit this UI and just write down the answer here progressively !!
 
 >>How many nodes do we have on cluster ?<<
-=== 16
+=== 23
 
 >>What is the oldest node of our cluster ? (last 4 characters is enough)<<
-=~= ob21
+=~= a79l
 
->>What is the newest namespace created ?<<
-( ) kirigami
+>>What is the newest namespace created between the following ?<<
+(x) logging
 ( ) monitoring
-(x) gateway
+( ) gateway
 
 
 >>How many namespaces contains "ad" in their names ?<<
@@ -29,13 +29,13 @@ This step is designed to be performed on **review** cluster, so quit this UI and
 >>Look at the pod kirigami-staging, what is the last event on this pod ?<<
 =~= none
 
->>What value of env variable API_V2_URL does hris staging uses ?<<
+>>What value of env variable API_V2_URL does hris-backend staging uses ?<<
 === https://ipa.gojob.com
 
 >>How many cronjobs do we have running on our cluster ?<<
-[ ] 50-60
-[x] 60-70
-[ ] 70-80
+[ ] 80-130
+[x] 130-180
+[ ] 180-230
 
 >>What service account is used by kirigami-staging ?<<
 === kirigami-project
