@@ -41,15 +41,15 @@ This step is designed to be performed on **review** cluster, so quit this UI and
 === kirigami-project
 
 >>Do you see a weird container in gateway namespace ? What is its first log line ?<<
-=== Hello from Docker !
+=== Hello from Docker!
 
 >>How many service accounts are associated to tsa ?<<
 === 3
 
->>How many pods are using tsa-project service account ?<<
-[ ] 0-5
-[x] 5-10
-[ ] 10-15
+>>How many ressources are using tsa-project service account ?<<
+[ ] 5-14
+[x] 15-24
+[ ] 25-34
 
 AMAZING 🤗️ You'went through this training ! Please, enjoy next step if you still have some time. I hope k9s will help simplify your daily work with kubernetes !
 
