@@ -22,5 +22,5 @@ Feel free to use **k9s sorting feature** :
 - shift + n : sorts by name
 - shift + s : sorts by status
 
-and many more, see shift + ? to see the help screen !
+and many more, see ? to see the help screen !
 
