@@ -26,7 +26,7 @@ You can also see the file ~/.config/k9s/config.yml to see lot of parameters you 
 ### Custom Shortcuts
 🖐️ Ok ok, but this is a bit long to access the screen I want to see. 
 
-Yes so you can a hotkey file in ~/.config/k9s/hotkey.yml ! I've added one for you, try to press the touch "m"
+Yes so you can add a hotkey file in ~/.config/k9s/hotkey.yml ! I've added one for you, try to press the touch "m"
 
 This should get you directly to containers of namespace falco ! 
 Have a look at the config file : 
